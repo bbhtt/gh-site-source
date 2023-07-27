@@ -1,0 +1,48 @@
+baseURL = "https://bbhtt.github.io/"
+languageCode = "en"
+defaultContentLanguage = "en"
+enableEmoji = true
+paginate = 5
+title = "Pixels"
+theme = "hugo-theme-monochrome"
+
+rssLimit = 20
+copyright = "Copyright © 2023 bbhtt and contributors"
+[author]
+	name = "bbhtt"
+	email = "bbhtt.zn0i8@slmail.me"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+author = "bbhtt"
+footer = "Copyright © 2023 bbhtt and contributors"
+favicon = "favicon.ico"
+enable_math = false
+enable_zooming_js = false
+enable_site_search = false
+enable_open_graph = false
+enable_twitter_cards = false
+
+[param]
+  [param.syntax_highlight]
+  lib = "builtin"
+    [param.syntax_highlight.builtin]
+    enable_code_copy = false
+
+[[menu.navbar]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 1
+[[menu.navbar]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 2

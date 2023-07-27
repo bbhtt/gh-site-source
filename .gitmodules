@@ -1,0 +1,3 @@
+[submodule "root/themes/hugo-theme-monochrome"]
+	path = root/themes/hugo-theme-monochrome
+	url = git@github.com:bbhtt/hugo-theme-monochrome.git
