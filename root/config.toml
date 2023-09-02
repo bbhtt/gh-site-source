@@ -4,45 +4,68 @@ defaultContentLanguage = "en"
 enableEmoji = true
 paginate = 5
 title = "Pixels"
-theme = "hugo-theme-monochrome"
-
+theme = "hugo-notepadium"
+enableRobotsTXT = false
+hasCJKLanguage = false
 rssLimit = 20
 copyright = "Copyright © 2023 bbhtt and contributors"
+relativeURLs = true
+
 [author]
-	name = "bbhtt"
-	email = "bbhtt.zn0i8@slmail.me"
+name = "bbhtt"
+email = "bbhtt.zn0i8@slmail.me"
 
 [taxonomies]
 category = "categories"
 tag = "tags"
 series = "series"
 
-[outputs]
-home = ["HTML", "RSS", "JSON"]
+[markup.highlight]
+codeFences = true
+noClasses = false
+
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
-author = "bbhtt"
-footer = "Copyright © 2023 bbhtt and contributors"
-favicon = "favicon.ico"
-enable_math = false
-enable_zooming_js = false
-enable_site_search = false
-enable_open_graph = false
-enable_twitter_cards = false
+style = "auto"
+dateFormat = "Monday, January 2, 2006"
+readingTime = true
+logo = "/mine.png"
+slogan = ""
+license = ""
+fullRss = true
+ipv6ready = false
 
-[param]
-  [param.syntax_highlight]
-  lib = "builtin"
-    [param.syntax_highlight.builtin]
-    enable_code_copy = false
+[params.comments]
+enable = false
 
-[[menu.navbar]]
-  identifier = "posts"
-  name = "Posts"
-  url = "/posts/"
-  weight = 1
-[[menu.navbar]]
-  identifier = "about"
-  name = "About"
-  url = "/about/"
-  weight = 2
+[params.math]
+enable = false
+use = "katex"
+
+[params.syntax]
+use = "none"
+theme = "github"
+darkTheme = "dracula"
+
+[params.share]
+enable = false
+addThisId = ""
+inlineToolId = ""
+
+[params.nav]
+showCategories = false
+showTags = false
+
+[[params.nav.custom]]
+title = "Posts"
+url = "/posts"
+
+[[params.nav.custom]]
+title = "About"
+url = "/about"
+
+[[params.nav.custom]]
+title = "Contact"
+url = "/contact"

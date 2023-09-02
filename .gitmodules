@@ -1,3 +1,3 @@
-[submodule "root/themes/hugo-theme-monochrome"]
-	path = root/themes/hugo-theme-monochrome
-	url = git@github.com:bbhtt/hugo-theme-monochrome.git
+[submodule "root/themes/hugo-notepadium"]
+	path = root/themes/hugo-notepadium
+	url = git@github.com:bbhtt/hugo-notepadium.git
