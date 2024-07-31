@@ -16,9 +16,11 @@ projects during my free time.
 
 I like watching [movies](https://letterboxd.com/bbhtt/films/), TV shows
 and [anime](https://anidb.net/user/983003); reading books and listening
-to [music](https://open.spotify.com/user/m18qz71984e1gjbkfbd36zwmi) and
-podcasts. I play casual online chess sometimes, although I never studied
-it seriously. I'm also heavily addicted to YouTube.
+to [music and podcasts](https://open.spotify.com/user/m18qz71984e1gjbkfbd36zwmi).
+I play casual online chess sometimes, although I never studied it
+seriously. I'm also heavily addicted to YouTube. I have an account on
+[Twitter](https://x.com/bbhtt_) and [Reddit](https://www.reddit.com/user/bbhtt/)
+too but I'm mostly inactive there.
 
 This is a place for random things in life that I find interesting.
 
