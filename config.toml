@@ -1,0 +1,65 @@
+baseURL = "https://bbhtt.space/"
+languageCode = "en"
+defaultContentLanguage = "en"
+enableRobotsTXT = false
+hasCJKLanguage = false
+rssLimit = 20
+relativeURLs = true
+enableEmoji = true
+paginate = 5
+
+title = "Pixels"
+theme = "hugo-notepadium"
+copyright = ""
+
+[author]
+name = "bbhtt"
+email = "bbhtt.zn0i8@slmail.me"
+
+[markup.highlight]
+codeFences = true
+noClasses = false
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+style = "auto"
+dateFormat = "Monday, January 2, 2006"
+logo = "/mine.png"
+slogan = ""
+license = ""
+fullRss = false
+ipv6ready = false
+description = 'Pixels'
+images = ['og_image.png']
+title = 'Pixels'
+
+[params.comments]
+enable = false
+
+[params.math]
+enable = false
+use = "katex"
+
+[params.syntax]
+use = "none"
+theme = "github"
+darkTheme = "dracula"
+
+[params.share]
+enable = false
+addThisId = ""
+inlineToolId = ""
+
+[params.nav]
+showCategories = false
+showTags = false
+
+[[params.nav.custom]]
+title = "Posts"
+url = "/posts"
+
+[[params.nav.custom]]
+title = "About"
+url = "/about"
