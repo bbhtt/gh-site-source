@@ -1,0 +1,6 @@
+[submodule "themes/hugo-notepadium"]
+	path = themes/hugo-notepadium
+	url = git@github.com:bbhtt/hugo-notepadium.git
+[submodule "public"]
+	path = public
+	url = git@github.com:bbhtt/bbhtt.github.io.git
