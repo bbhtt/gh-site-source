@@ -8,6 +8,8 @@ People might have noticed me talking about dropping OpenH264 from
 Here, I'll try to go a bit into the history, the timeline and what led
 to the final decision.
 
+<!--more-->
+
 ## A bit of an introduction
 
 If you are unfamiliar with the Freedesktop SDK project: it was born out
