@@ -44,7 +44,7 @@ codec in the base runtime (since we want it usable by a wide variety of
 vendors and free of any legal grey areas) and unfortunately makes life
 difficult for everyone involved.
 
-To workaround this and ship working software to users, 7 years ago, in
+To workaround this and ship working software to users, 6 years ago, in
 2019 the precursor to the OpenH264 extension, called the
 [html5-codecs extension](https://gitlab.com/freedesktop-sdk/freedesktop-sdk/-/commit/1c1d87eb7f1e7952bf79825cfb65225f3a3c3e30)
 was added to the Freedesktop runtime by Tom Coldrick. The idea was
@@ -58,10 +58,12 @@ to include [Cisco's OpenH264](https://github.com/cisco/openh264)
 (commonly referred as `libopenh264` too) as an extension to the runtime.
 
 `libopenh264` code is open source but due to the H.264 patents, no
-vendor is legally allowed to distribute their own binaries. The
-solution to this was to distribute Cisco's unmodified binaries directly
-to the user which would effectively be free of any royalties but the
-catch is, the binaries have [some license restrictions](https://www.openh264.org/BINARY_LICENSE.txt)
+vendor is legally allowed to distribute their own binaries (some vendors
+build it themselves and hand it to Cisco but no one made that arrangement
+for us). The solution to this was to distribute Cisco's unmodified
+binaries directly to the user which would effectively be free of any
+royalties but the catch is, the binaries have
+[some license restrictions](https://www.openh264.org/BINARY_LICENSE.txt)
 on them.
 
 So Endless around that time, added [extra-data](https://docs.flatpak.org/en/latest/module-sources.html#extra-data)
@@ -308,3 +310,10 @@ own OpenH264 extension similar to how we did.
 I hope the experience here helps anyone in the future wanting to maintain
 such an extension and this will also serve as a reminder to how much
 extra work patents like these causes.
+
+Lastly I'd like to thank Endless for giving us not only noopenh264 but
+also extra-data support in Flatpak that made all this possible;
+[Michael Catanzaro](https://gitlab.com/TheRealMichaelCatanzaro) and [Seppo Yli-Olli](https://gitlab.com/nanonyme)
+for maintaining this setup for a long time; [Valentin David](https://gitlab.com/valentindavid)
+for helping me in the last few days and everyone else who worked on
+this ❤️ 
