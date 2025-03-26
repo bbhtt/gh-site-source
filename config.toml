@@ -10,7 +10,7 @@ paginate = 5
 
 title = "Pixels"
 theme = "hugo-notepadium"
-copyright = ""
+copyright = "CC BY-NC-SA 4.0"
 
 [author]
 name = "bbhtt"
@@ -25,7 +25,7 @@ unsafe = true
 
 [params]
 style = "auto"
-dateFormat = "Monday, January 2, 2006"
+dateFormat = "Monday January 2, 2006"
 logo = "/mine.png"
 slogan = ""
 license = ""
