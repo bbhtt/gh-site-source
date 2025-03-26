@@ -30,3 +30,6 @@ You can contact me via:
   is [D26D 7533 9500 9DB2 B3B2 6094 0C32 51A2 4745 E484](/bbhtt.pub)
 - [\[matrix\]](https://matrix.org/): [@bbhtt:matrix.org](https://matrix.to/#/@bbhtt:matrix.org)
 - IRC: bbhtt on [Libera.chat](ircs://irc.libera.chat/bbhtt,isuser), [OFTC](ircs://irc.oftc.net/bbhtt,isuser)
+
+Unless otherwise stated, all textual content here is licensed under
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
