@@ -26,7 +26,7 @@ on Lichess.
 
 You can contact me via:
 
-- Email: [bbhtt@bbhtt.space](mailto:bbhtt@bbhtt.space). My GPG key
+- Email: [bbhtt@bbhtt.in](mailto:bbhtt@bbhtt.in). My GPG key
   is [D26D 7533 9500 9DB2 B3B2 6094 0C32 51A2 4745 E484](/bbhtt.pub)
 - [\[matrix\]](https://matrix.org/): [@bbhtt:matrix.org](https://matrix.to/#/@bbhtt:matrix.org)
 - IRC: bbhtt on [Libera.chat](ircs://irc.libera.chat/bbhtt,isuser), [OFTC](ircs://irc.oftc.net/bbhtt,isuser)

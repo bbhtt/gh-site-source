@@ -1,4 +1,4 @@
-baseURL = "https://bbhtt.space/"
+baseURL = "https://bbhtt.in/"
 languageCode = "en"
 defaultContentLanguage = "en"
 enableRobotsTXT = false
@@ -14,7 +14,7 @@ copyright = "CC BY-NC-SA 4.0"
 
 [author]
 name = "bbhtt"
-email = "bbhtt@bbhtt.space"
+email = "bbhtt@bbhtt.in"
 
 [markup.highlight]
 codeFences = true
