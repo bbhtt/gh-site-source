@@ -321,20 +321,22 @@ flatpak-builder, making several releases, introducing the stable/unstable
 release policy, cleaning up the issue tracker, fixing various bugs,
 merging PRs that had been sitting around for years, and adding a bunch
 of new features along the way. That also somehow spilled over into the
-flatpak itself. I ended up reviewing a number of PRs there, merged some
+Flatpak itself. I ended up reviewing a number of PRs there, merged some
 fixes, cleaned up parts of the issue tracker, and reviewed a couple of
-security patches. I'm not really an expert in C, more so in Glib
-flavoured C.
+security patches.
 
 I'm not really an expert in C, more so in GLib flavored C. I'm not really
 a software person either. The only formal programming I learned was
 basic Python during my bachelor's in Mathematics. Most of what I know
 now I picked up by reading documentation, browsing issues, and looking
-at other people's code online. So large C codebases like Flatpak
-or flatpak-builder with security boundaries still give me an uneasy
-feeling. I think flatpak-builder should've been written in something
-like Python, as it is essentially a large "command runner". Python, for
-me, has always felt more natural and faster to write and understand.
+at other people's code online. So large C codebases like Flatpak with
+security boundaries and a long history of stability, and on which so
+many people depend upon still give me an uneasy feeling. I think
+flatpak-builder should've been written in something like Python, as it
+is essentially a large "command runner". Python, for me, has always felt
+more natural and faster to write and understand. I think it would be
+great to have the original maintainers like Alex back at everything
+again but I'm doubtful.
 
 Two other things that take some of my time are documentation work and
 maintaining most of the generators in the flatpak-builder-tools. Since
