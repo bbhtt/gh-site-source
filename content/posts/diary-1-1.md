@@ -327,7 +327,7 @@ security patches.
 
 I'm not really an expert in C, more so in GLib flavored C. I'm not really
 a software person either. The only formal programming I learned was
-basic Python during my bachelor's in Mathematics. Most of what I know
+basic Python during my Bachelor's in Mathematics. Most of what I know
 now I picked up by reading documentation, browsing issues, and looking
 at other people's code online. So large C codebases like Flatpak with
 security boundaries and a long history of stability, and on which so
@@ -354,7 +354,12 @@ trying (and failing) to take some breaks. To "de-stress", I've turned
 off notifications for several apps on my phone, and instead of checking
 emails daily like I used to, I now let them pile up for a few days
 before going through them. This leads to around 300-400 emails a week
-but whatever.
+but whatever. I think in my time, I've seen a lot of projects become
+inactive. As a result the community around it slowly wanes away, the
+project looses relevance and gets replaced by something else or becomes
+a graveyard. I don't really want that to happen and that has been my
+main motivation for all this. Rather than writing something new, I try to
+contribute and help with existing things where possible.
 
 After all of the above I hardly get any free time, but whenever I do I
 listen to a lot of [music](https://music.youtube.com/@bbhtt3305) and
