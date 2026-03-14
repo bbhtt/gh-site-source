@@ -30,5 +30,16 @@ You can contact me via:
 - [\[matrix\]](https://matrix.org/): [@bbhtt:matrix.org](https://matrix.to/#/@bbhtt:matrix.org)
 - IRC: bbhtt on [Libera.chat](ircs://irc.libera.chat/bbhtt,isuser), [OFTC](ircs://irc.oftc.net/bbhtt,isuser)
 
+
+The domain for this website is registered with
+[Hostinger](https://www.hostinger.com/), while DNS and TLS
+certificates are managed through [Cloudflare](https://developers.cloudflare.com/dns/manage-dns-records/how-to/create-dns-records/).
+The website itself is hosted as a static site on
+[GitHub pages](https://docs.github.com/en/pages). No additional
+analytics have been enabled beyond those collected by these services by
+default (which cannot be disabled). Only Cloudflare among these services,
+provides visible analytics, an example of which can be found
+[here](/cloudflare_stats.png).
+
 Unless otherwise stated, all content here is licensed under
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
