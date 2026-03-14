@@ -26,7 +26,7 @@ unsafe = true
 [params]
 style = "auto"
 dateFormat = "Monday January 2, 2006"
-logo = "/mine.png"
+logo = ""
 slogan = ""
 license = ""
 fullRss = false
