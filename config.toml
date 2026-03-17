@@ -57,8 +57,8 @@ showCategories = false
 showTags = false
 
 [[params.nav.custom]]
-title = "Posts"
-url = "/posts"
+title = "Notes"
+url = "/notes"
 
 [[params.nav.custom]]
 title = "About"
