@@ -26,7 +26,7 @@ unsafe = true
 
 [params]
 style = "auto"
-dateFormat = "Monday January 2, 2006"
+dateFormat = "Jan 2, 2006"
 logo = ""
 slogan = ""
 license = ""
