@@ -1,7 +1,8 @@
 ---
 title: "About"
 description: "About"
-date: 2023-07-07T12:44:33+05:30
+showDate: false
+showLastmod: false
 ---
 
 > _I’m Nobody! Who are you? Are you – Nobody – too? Then there’s a pair of us!_ ~ Emily Dickinson

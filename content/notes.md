@@ -1,7 +1,8 @@
 ---
 title: "Notes"
 description: "Notes"
-date: 2026-03-17T11:42:50+05:30
+showDate: false
+showLastmod: false
 ---
 
 This is a place to share various teaching and study notes I often make.
