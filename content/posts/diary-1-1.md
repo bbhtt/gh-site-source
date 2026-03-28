@@ -1,6 +1,6 @@
 ---
 title: "Diary#1"
-date: 2026-03-28T14:49:39+05:30
+date: 2026-03-11T05:23:34+05:30
 ---
 
 This will be the first post in what may become a series of occasional
