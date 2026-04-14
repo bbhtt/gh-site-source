@@ -13,3 +13,5 @@ This is a place to share various teaching and study notes I often make.
 - [Modelling differential equations](/modelling.pdf)
 - [MIC2 mid semester questions 2026](/mic2-mid-sem-qs-2026.pdf)
 - [First order Linear PDE](/first-order-linear-pde.pdf)
+- [Class test on ODE and PDE - I](/ode-pde-class-test-1.pdf)
+- [Class test on ODE and PDE - II](/ode-pde-class-test-2.pdf)
