@@ -26,15 +26,16 @@ I would like to note that all of my FOSS work is done in my personal
 free time, and I have no plans to accept any payment or donations for
 it.
 
-Other than work and FOSS, I love going on random YouTube binges, watching
-[movies and TV shows](https://www.imdb.com/user/ur212871697/ratings/),
+Other than work and FOSS, I love going on random [YouTube](https://www.youtube.com/@bbhtt3305)
+binges, watching [movies and TV shows](https://www.imdb.com/user/ur212871697/ratings/),
 [anime](https://myanimelist.net/animelist/bbhtt), [K-dramas](https://mydramalist.com/dramalist/bbhtt),
 and I'm almost always listening to [music](https://music.youtube.com/@bbhtt3305).
 I also try to read (or listen to) books and play some games on
 [Steam](https://steamcommunity.com/id/bbhtt/) every now and then, and
 occasionally mess around with casual online chess on Lichess.
 
-You can contact me via my email [bbhtt@bbhtt.in](mailto:bbhtt@bbhtt.in).
+You can contact me via my email [bbhtt@bbhtt.in](mailto:bbhtt@bbhtt.in)
+or on [Signal](https://signal.me/#eu/kxfmfZ96Rdnf12nrRYbpfGAI8j_13m_7Cf9oEm8-0EfODBnUW35JoIxVVCHnqe46).
 My GPG key is
 [D26D 7533 9500 9DB2 B3B2 6094 0C32 51A2 4745 E484](/bbhtt.pub). If you
 have a comment about my blog posts, please send me an email.
