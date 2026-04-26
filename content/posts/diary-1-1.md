@@ -135,28 +135,49 @@ hitpieces on socials, crying injustice and flaming which has been extra
 annoying. I’ve even been pinged during important IRL situations
 (e.g., while undergoing a blood test).
 
-I would have loved to place an outright ban on AI submissions, but
-some of the other reviewers/admins think otherwise, so I had "soften" up
-the original AI policy written by Hub a bit while still allowing us to
-block enough of the nonsense. This is because, if I block a submission
+I would have loved to place an outright ban on AI slop submissions, but
+some of the other reviewers/admins think otherwise, so we have a
+"softened up" version of the AI policy up while still allowing us to
+block enough of this nonsense. This is because, if I block a submission
 and someone else just merges it anyway, it is _actively_ harmful to
 have a contradictory policy document up and make the internal
 dissidence public.
 
 I’m also very frustrated that people from within our own circles started
-submitting AI-generated slop PRs to various FOSS projects. When
+submitting AI-generated spammy PRs to various FOSS projects. When
 an app maintainer raised concerns, I responded bluntly, asking to stop
-the slop spam PRs. The reply I got was that apparently I didn’t
-know what I was talking about, and that if it "physically hurts" me, I
-should just ignore it, which is about as fair as telling someone who is
-receving death threats, to just stop being on the internet and close
-all their emails. Shortly after this I stopped being active on my
-socials.
+the spam. The reply I got was that apparently I didn’t know what I was
+talking about, and that if it "physically hurts" me, I should just
+ignore it, which is about as fair as telling someone who is receving
+death threats, to just stop being on the internet and close all their
+emails.
 
-It seems that I’m being forced out of what I love, and I have no
-control over that. This is not something anyone should have to deal
-with. I try to be reasonable, but this has become increasingly
-difficult to deal with.
+I don’t really have a problem with people using LLMs as a learning aid,
+or for translations, or even for writing code - provided the output is
+not entirely “slop” and the person is not acting with malicious
+interests in mind and willing to take full responsibility for it,
+including being open to feedback, staying sensibly engaged, and being
+present to fix issues. That, however, is not what’s happening here in
+general.
+
+I suspect most of these AI-generated submissions are aimed at padding
+CVs or GitHub profiles and generating revenue when paid apps become
+available. I also suspect that the people submitting them will rarely
+become sustained platform or FOSS contributors and while that’s not a
+requirement in any way, it is generally nice. I suspect that the
+applications themselves will be buggy and when all the interest
+eventually fades, it will join the graveyard of unmaintained apps on
+EOL runtimes. None of this is a requirement to create and distribute
+open source applications in way and it never should be. The entire
+contract is that there is none but all of this is generally nice. I
+would be glad to be proven wrong on any of these and if that happens it
+will not be my "loss", but rather a better application
+and, potentially, a new long-term contributor.
+
+Anyways, right now, it seems that I’m being forced out of what I love
+doing, and I have no control over that. This is not something anyone
+should have to deal with. I try to be reasonable, but this has become
+an increasingly difficult situation.
 
 I’ve developed and maintain a number of GitHub actions in
 that repository (and in the flathub-infra org) to automate parts of the
