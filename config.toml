@@ -24,6 +24,9 @@ noClasses = false
 [markup.goldmark.renderer]
 unsafe = true
 
+[markup.goldmark.parser]
+autoHeadingID = true
+
 [params]
 style = "auto"
 dateFormat = "Jan 2, 2006"
@@ -64,3 +67,6 @@ url = "/notes"
 [[params.nav.custom]]
 title = "About"
 url = "/about"
+
+[params.assets]
+css = ["css/custom.css"]
