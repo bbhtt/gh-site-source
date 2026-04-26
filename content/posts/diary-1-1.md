@@ -1,6 +1,7 @@
 ---
 title: "Diary#1"
 date: 2026-03-11T05:23:34+05:30
+lastmod: 2026-03-28
 ---
 
 This will be the first post in what may become a series of occasional
@@ -16,6 +17,8 @@ keeping a record of my thoughts, experiences, and small updates. It
 feels nice to know I can someday look back at these posts and recollect.
 It also feels nice to share these thoughts, even though I don’t really
 know who the audience (apart from myself) will be, if anyone.
+
+## Health
 
 I guess I will start this by writing about my health.
 
@@ -58,6 +61,8 @@ gone down in the last three months. I’ve also been trying to “de-stress”
 in various ways, like reducing my “online” time (more on that later).
 Hopefully things turn out to be ok.
 
+## Work
+
 The next part is going to be a bit about my work and PhD.
 
 The latter has been stressful and frustrating lately for various
@@ -90,9 +95,13 @@ learning a more or less general method like that is much better for the
 long term. The mid-semester exams happened last week, so I now have a
 pile of 40 or 50 answer scripts waiting to be graded.
 
+## FOSS
+
 The next part is about the FOSS stuff I usually do. Most of it can
 roughly be grouped into three areas - Flathub, Flatpak, and the
 Freedesktop SDK.
+
+### Flathub
 
 A large portion of my time related to Flathub goes into the main Flathub
 repository, mostly reviewing submissions. I think I started doing this
@@ -141,8 +150,8 @@ the slop spam PRs. The reply I got was that apparently I didn’t
 know what I was talking about, and that if it "physically hurts" me, I
 should just ignore it, which is about as fair as telling someone who is
 receving death threats, to just stop being on the internet and close
-all their emails. Shortly after this I stopped being active on
-my socials.
+all their emails. Shortly after this I stopped being active on my
+socials.
 
 It seems that I’m being forced out of what I love, and I have no
 control over that. This is not something anyone should have to deal
@@ -278,6 +287,8 @@ random pings, the Sentry dashboard, or other reports. I don’t remember
 most of it now. Apart from all these, pretty much every repo in the
 flathub-infra org was touched by me in one way or another last year.
 
+### Freedesktop SDK
+
 Moving on to Freedesktop SDK, while Codethink helps with the
 infrastructure and maintains BuildStream and related tooling, most of
 the general maintenance of the SDK itself has been handled by about 3 to
@@ -357,6 +368,8 @@ This work was happening in parallel with the upcoming 25.08 release, and
 we even had to revive branches from two or three years ago in order to
 fix them. In the end, I ended up doing a large portion of that work.
 
+### Flatpak
+
 Moving on to Flatpak-related work, most Flatpak projects have been
 fairly dormant for several years, mainly because many of the original
 maintainers moved on to other projects. As part of the license work
@@ -410,6 +423,8 @@ gets replaced by something else, or becomes a graveyard. I don’t really
 want that to happen, and that has been my main motivation for all this.
 Rather than writing something new, I try to contribute and help with
 existing things where possible.
+
+## Leisure
 
 After all of the above, I hardly get any free time, but whenever I do, I
 listen to a lot of music and watch YouTube. Sometime in late 2024, I
