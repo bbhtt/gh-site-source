@@ -135,13 +135,12 @@ hitpieces on socials, crying injustice and flaming which has been extra
 annoying. I’ve even been pinged during important IRL situations
 (e.g., while undergoing a blood test).
 
-I would have loved to place an outright ban on AI slop submissions, but
-some of the other reviewers/admins think otherwise, so we have a
-"softened up" version of the AI policy up while still allowing us to
-block enough of this nonsense. This is because, if I block a submission
-and someone else just merges it anyway, it is _actively_ harmful to
-have a contradictory policy document up and make the internal
-dissidence public.
+I don't think banning the use of LLMs completely is practical right now
+but I absolutely want to place an outright ban on "AI-slop" submissions,
+but alas some of the other reviewers/admins sometimes think otherwise
+or when I make a mistake, "slop" gets in. Maybe this is because, there
+is no clear metric of determining what counts as slop and the judgement
+varies from person to person.
 
 I’m also very frustrated that people from within our own circles started
 submitting AI-generated spammy PRs to various FOSS projects. When
