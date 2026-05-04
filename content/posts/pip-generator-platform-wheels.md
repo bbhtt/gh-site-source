@@ -43,6 +43,16 @@ flatpak-cargo-generator needs to be pointed at it to regenerate
 the Cargo manifest, and finally, both changed manifests need to be
 included in the update.
 
+There is also the issue that PIP generator cannot reliably [determine build dependencies](https://github.com/flatpak/flatpak-builder-tools/issues/380)
+of Python packages. `pip download` (which PIP generator uses) itself
+does not expose this information, and extracting it programmatically is
+non-trivial as it would require unpacking an sdist and parsing
+specifications such as `setup.py`, `pyproject.toml` etc to collect them.
+This limitation makes it hard to build and install a Python module
+from a sdist as a given module may have multiple build dependencies
+and each of them with their own, all of which needs to be manually
+collected into a Flatpak builder manifest.
+
 Therefore, since 2022, one of the [most requested features](https://github.com/flatpak/flatpak-builder-tools/issues/296)
 has been support for architecture or platform-specific wheels. Another
 [related issue](https://github.com/flatpak/flatpak-builder-tools/issues/202)
