@@ -25,20 +25,20 @@ and then once more before dinner at 9–10 PM.
 They would always respond with such excitement and energy whenever I
 would come near to feed them. All three of them would stir, crawl toward
 my fingers, grab them, and would try to gently gnaw at them. Their eyes
-hadn’t opened yet, and their teeth hadn’t come in, so they could only
+hadn’t formed yet, and their teeth hadn’t come in, so they could only
 take the pedialyte solution. I tried once or twice to feed them soft
 rice without success. Every few days, I’d clean their bedding, and
 whenever I thought they might be cold, I’d warm a handkerchief slightly
 with an iron and place it inside their box. They would curl up on it and
 sleep.
 
-It’s surprising how strong a bond can form in just ten days. Their small
-screeches, the anticipation of getting to feed them when I got home -
-these little things kept me occupied and filled my day with happiness.
+It’s surprising how strong a bond can form in just ten days. The little
+things like their screeches and my excitement of getting to feed them
+when I got home, kept me occupied and filled my days with happiness.
 
 Perhaps that’s why today feels so heavy.
 
-This afternoon, with tears in my eyes, I’m writing this just to
+This afternoon, with tears in my eyes, I’m probably writing this just to
 distract myself.
 
 Everything seemed fine last night. I fed them, and I went to sleep as
@@ -49,7 +49,7 @@ the box, and fed the other two, who seemed fine at the time. But around
 of me. The third held on for a few more hours, but it too didn’t
 make it.
 
-I won’t lie. I broke down. Alone in my flat, I bawled my eyes out for a
+I won’t lie. I broke down. Alone in my flat, I cried my eyes out for a
 while. We had a state holiday today, and I was at home for the whole
 day, so it felt even harder.
 
@@ -66,7 +66,4 @@ Anyways, I'd like to let them know, if I can, that I really loved them
 and tried to care for them, and I hope they felt a little bit of my
 warmth and care too.
 
-I'm feeling a bit broken today, and writing this just to distract
-myself, so there isn't much more to say.
-
-Until next time.
+I'm feeling a bit broken today, so there isn't much more to say. Bye.

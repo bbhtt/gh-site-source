@@ -3,7 +3,7 @@ title: "Platform wheel support in Flatpak PIP Generator"
 date: 2026-04-29T15:21:34+05:30
 ---
 
-This post summarizes some new features I recently added to the
+This post summarises some new features I recently added to the
 Flatpak PIP generator, along with some updates to other related
 generators.
 
@@ -21,7 +21,7 @@ around 2020, at least according to the git history. Despite being the
 most widely used generator in the flatpak-builder-tools repository, it
 has historically had only a small number of contributors. I have been
 contributing to it since 2023, and after taking over maintenance of
-the flatpak-builder-tools repository last year, my level of involvement
+the flatpak-builder-tools repository last year, my involvement
 increased somewhat. One of the larger changes I introduced last year,
 was a codebase [modernisation effort](https://github.com/flatpak/flatpak-builder-tools/pull/453)
 that added ruff for formatting and linting, along with mypy for type
@@ -30,14 +30,14 @@ checker, and having these is quite essential nowadays to catch
 programmer mistakes.
 
 Historically, the PIP generator relied on universal wheels or source
-distributions from PyPI. This design choice favored building from
+distributions from PyPI. This design choice favoured building from
 source to avoid incompatibilities and issues with architecture-specific
 wheels. However, since then, the ecosystem has evolved, and many Python
 packages now include Rust components, often with Cargo.toml or
 Cargo.lock files but without vendored dependencies. As a result,
 building these packages introduced an additional step of generating
-manifests for Rust dependencies using flatpak-cargo-generator, which
-I also maintain. This complicates automated updates to the Python
+manifests for Rust dependencies using flatpak-cargo-generator (which
+I also maintain). This complicates automated updates to the Python
 modules, as the sdist needs to be unpacked for the Cargo lockfile, then
 flatpak-cargo-generator needs to be pointed at it to regenerate
 the Cargo manifest, and finally, both changed manifests need to be
@@ -46,8 +46,8 @@ included in the update.
 There is also the issue that PIP generator cannot reliably [determine build dependencies](https://github.com/flatpak/flatpak-builder-tools/issues/380)
 of Python packages. `pip download` (which PIP generator uses) itself
 does not expose this information, and extracting it programmatically is
-non-trivial as it would require unpacking an sdist and parsing
-specifications such as `setup.py`, `pyproject.toml` etc to collect them.
+not trivial as it would require unpacking an sdist and parsing
+specifications such as `setup.py`, `pyproject.toml` etc. to collect them.
 This limitation makes it hard to build and install a Python module
 from a sdist as a given module may have multiple build dependencies
 and each of them with their own, all of which needs to be manually
@@ -61,8 +61,8 @@ wheels, causing the generator to fail on them.
 
 Since taking over maintenance, I revisited these issues multiple times
 but lacked the time and bandwidth to address them. I was also aligned
-with the “build-from-source” approach, so I was not particularly
-motivated to prioritise it. However, I do believe that the lack of
+with the “build-from-source” camp, so I was not particularly
+motivated to prioritise it. However, I did believe that the lack of
 support for architecture or platform-specific wheels made Flatpak
 packaging difficult for newcomers, especially those unfamiliar with
 the complexities of Python build systems.
@@ -104,8 +104,9 @@ constraints, starting a new project from scratch seemed daunting.
 Instead, I implemented a [parser](https://github.com/flatpak/flatpak-builder-tools/commit/3f2844feb65672ceee37f2660c9d35ab342d5409)
 directly within the PIP generator, which now handles pinned hashes.
 
-This approach was consistent with my earlier work, where I had already
-added support for [parsing platform markers](https://github.com/flatpak/flatpak-builder-tools/commit/422e9eca6f8f1f4c7e760aea5e902890e6a5eba0)
+It's a bit annoying that all the parsing code had to live in the
+generator itself but I had to do this before as well when I added
+support for [parsing platform markers](https://github.com/flatpak/flatpak-builder-tools/commit/422e9eca6f8f1f4c7e760aea5e902890e6a5eba0)
 which `requirements-parser` also lacks.
 
 This burst of activity also led me to fix some bugs and add some
@@ -120,15 +121,16 @@ standard type hints.
 
 During this process, I fixed an issue where cache filenames could
 [exceed the 255-byte filesystem limit](https://github.com/flatpak/flatpak-builder-tools/pull/515),
-as they were derived directly from raw URLs. I introduced a hash-based
-caching scheme, along with a backwards-compatible migration
-to convert existing cache entries to the new format.
+as they were derived directly from raw URLs. I added a hash-based
+caching scheme to solve this. Existing cache entries should get
+converted to the new format in a backwards-compatible manner.
 
 The other issue was that the generator hardcoded an outdated
-node-gyp installVersion, with a note indicating it should
-eventually be detected automatically. As the value drifted out of
-sync with the SDK extension, this began causing build failures. This has
-now been addressed, and the version is [automatically detected](https://github.com/flatpak/flatpak-builder-tools/commit/168ee2551783d65ed0778ba70cbb9ae733df557d)
+node-gyp installVersion, with a comment in the code indicating it should
+eventually be detected automatically. Following the tradition, that
+never happened! So as the value drifted out of sync with the SDK
+extension, it began causing build failures. This has
+should now be addressed, and the version now is [automatically detected](https://github.com/flatpak/flatpak-builder-tools/commit/168ee2551783d65ed0778ba70cbb9ae733df557d)
 from the installed Node SDK extension.
 
 I also reviewed and merged a PR with [support for PNPM](https://github.com/flatpak/flatpak-builder-tools/pull/511),

@@ -5,28 +5,28 @@ date: 2026-04-05T09:36:28+05:30
 
 There’s an abandoned movie studio behind my apartment that has turned
 into dense greenery, with large trees like banyan, burflower, and mango.
-It’s home to all kinds of animals - stray cats and dogs, mongooses,
+It’s home to all kinds of animals like stray cats and dogs, mongooses,
 civets, rats, snakes, squirrels, monkeys, and various kinds of birds.
 
 <!--more-->
 
-My third-floor balcony, with its shade and clutter, occasionally
-attracts them as a temporary shelter.
+My third floor balcony is a bit cluttered, and I don’t use it often
+either. So they sometimes come there to nest, mainly during the
+breeding season.
 
 Yesterday, I kept hearing continuous squirrel noises from noon onwards.
 I searched around but couldn’t find anything. The last time this
 happened, one had died trying to hide under my washing machine, so I
-was trying to avoid a repeat.
+was trying to avoid a repeat of that incident. But this morning, I
+found one newborn squirrel on my balcony, while two more had fallen
+onto the sunshade below. I pulled them up using a makeshift cardboard
+pulley setup and placed all three in a shoebox lined with some
+grass I found.
 
-This morning, I found one newborn squirrel on my balcony, while two more
-had fallen onto the sunshade below. I pulled them up using a makeshift
-cardboard pulley setup and placed all three in a shoebox lined with
-grass.
-
-They’re extremely young - eyes closed, barely moving. Their mother
-hasn’t returned. For now, I gave them a simple warm sugar-salt solution
-(it's called a Pedialyte solution, apparently) using a softened earbud.
-They managed to drink a little.
+They’re extremely young. Their eyes haven't formed yet and they are
+barely moving. Their mother hasn’t returned. For now, I gave them a
+sugar-salt solution (it's called a pedialyte solution, apparently) using
+a softened earbud. They managed to drink a little.
 
 I’ve left them on the balcony in case the mother comes back, though
 that seems unlikely. If she doesn’t, I’ll try to care for them for a

@@ -5,9 +5,9 @@ lastmod: 2026-03-28
 ---
 
 This will be the first post in what may become a series of occasional
-status updates or a personal diary. I might ramble or overshare at
-times, and there won’t be anything particularly important or interesting
-here.
+status updates or something like a personal diary. I might ramble or
+overshare at times, and there won’t be anything particularly important
+or interesting here.
 
 <!--more-->
 
@@ -113,16 +113,16 @@ years, it has mostly been just me and Hub handling all the review work.
 This would normally be fine if not for the constant influx of extremely
 low-quality, AI-generated pull requests, or PRs that completely ignore
 the requirements clearly laid out in the documentation, and even the
-PR template. Reviewing these is not just frustrating—it’s genuinely
-exhausting. It’s becoming harder to tell what’s malicious versus what’s
-submitted by someone with little to no understanding of software. To
-make matters worse, many LLM-generated submissions now look
-superficially “legitimate,” so each one takes extra time and effort to
-verify. In a lot of cases, it's not even apparently visible from
-comments, repository structure, commit details and hygiene, and someone
-has to audit the entire codebase, which is hardly possible or practical
-given the volume, for someone working full-time on this, let alone
-for volunteers.
+PR template. Reviewing these is hugely frustrating and exhausting. It’s
+becoming harder to tell what’s malicious versus what’s submitted by
+someone with little to no understanding of software. To make matters
+worse, many LLM-generated submissions now look superficially
+“legitimate”, so each one takes extra time and effort to verify. In a
+lot of cases, it's not even apparently visible from comments,
+repository structure, commit details and hygiene, and someone has to
+audit the entire codebase, which is hardly possible or practical given
+the volume, for someone working full-time on this, let alone for
+volunteers.
 
 A lot of submitters also seem overconfident, sometimes even
 entitled, as if their PRs are expected to be accepted. There’s often a
@@ -152,7 +152,7 @@ death threats, to just stop being on the internet and close all their
 emails.
 
 I don’t really have a problem with people using LLMs as a learning aid,
-or for translations, or even for writing code - provided the output is
+or for translations, or even for writing code, provided the output is
 not entirely “slop” and the person is not acting with malicious
 interests in mind and willing to take full responsibility for it,
 including being open to feedback, staying sensibly engaged, and being
@@ -235,7 +235,7 @@ spent, that opportunity now feels largely closed. Ideally, changes like
 this should develop organically over time, especially when a volunteer-
 run project, maintained by only a handful of people, is involved. Public
 criticism from prominent figures rarely helps move things in a
-constructive direction. Anyways…
+constructive direction. Anyways...
 
 Moving on to flatpak-builder-lint, I’m still maintaining it mostly solo.
 I took over the project in its early days, and at the time, it was quite
@@ -248,15 +248,16 @@ led to additional breakages. Over the past couple of years, I’ve tried
 to stabilise things by improving the existing checks, adding many new
 ones, removing some vague or problematic ones, and introducing proper CI
 and test coverage. Whenever breaking changes were introduced, I tried to
-communicate them by opening issues on affected repositories - at times
-that meant opening 70–80 issues. I think all of that effort paid off.
-Over the past few months, I haven’t really had to add a lot of new code,
-and the complaints have stopped. These days, the biggest time sink is
-reviewing exception PRs, which I’m again at it mostly alone. Often this
-involves looking at the app’s code, running the application itself,
-knowing about Flatpak and portal developments, including what random
-libraries or frameworks support, asking maintainers questions for
-context, and making “judgment calls”.
+communicate them by opening issues on affected repositories. At times
+that meant opening more than 70–80 issues. I think all of that effort
+paid off. Over the past few months, I haven’t really had to add a lot
+of new code, and the complaints have stopped. These days, the biggest
+time sink is reviewing exception PRs, which I’m again at it mostly
+alone. Often this involves looking at the app’s code, running the
+application itself, knowing about Flatpak and portal
+developments, including what random libraries or frameworks
+support, asking maintainers questions for context, and making
+certain “judgment calls”.
 
 Moving on to the documentation repository, there isn’t much to say here,
 except that I’m currently the only person actively writing and
