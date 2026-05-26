@@ -27,3 +27,9 @@ I'm sorry that I am sceptical about some things, that I didn't drink
 the kool-aid of "progress" and that I am suspicious of hypothetical
 "paid work" after 7+ years of unpaid volunteer effort. I wouldn't have
 to vent if I thought any of this was fair to me.
+
+#### 2026-05-26T15:08:00+05:30
+
+After thinking for a while, I just decided to leave formally by removing myself from Gitlab. I think it's best for me and everyone else. I don't have any willingness left to collaborate where I don't receive the respect, gratitude and trust I think I deserve. I wanted to archive some of my own projects I created in the namespace but Gitlab in their infinite wisdom has restricted that to the 'owner' role which I didn't have. So none of those repositories will be maintained by me anymore. I may mirror/move and/or fork some of them elsewhere. I don't have anything against the software or the project itself; they are great but the some of the people, not so much. Sorry.
+
+I'm sorry, the first two of these microposts were me venting. I'll try to post something fun later on...
