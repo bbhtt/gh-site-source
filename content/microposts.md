@@ -7,6 +7,60 @@ showLastmod: false
 
 Tweet-sized thoughts, published by accident
 
+#### 2026-05-27T13:32:00+05:30
+
+Loved The Cure by Olivia Rodrigo.
+The music video was so retro and
+comic-y. So excited for the album!
+
+#### 2026-05-26T18:49:00+05:30
+
+Finished watching all four seasons of Invincible last week. I really
+liked how different it is from most superhero shows. 
+
+I also loved the underlying idea
+that, despite being named “Invincible”,
+Mark is anything but invincible in
+his own universe. 
+
+He’s constantly overshadowed by beings
+far stronger than him and he is
+constantly trying to live a normal
+human life filled with mistakes, compromises, and struggles, which is
+so far from a what a "superhero" would
+be doing.
+
+I was thinking about writing a whole
+review posts but I don't think I have
+gathered enough thoughts for that.
+
+#### 2026-05-26T15:08:00+05:30
+
+After thinking for a while, I
+just decided to leave formally by
+removing myself from Gitlab. I
+think it's best for me and everyone
+else. I don't have any willingness
+left to collaborate where I don't
+receive the respect, gratitude and
+trust I think I deserve. 
+
+I wanted to archive some of my own projects I created in the namespace
+but Gitlab in their infinite wisdom
+has restricted that to the 'owner'
+role which I didn't have. So none of
+those repositories will be maintained
+by me anymore. I may mirror/move and/or fork some of them which I perssonally
+need, elsewhere. 
+
+I don't have anything against the
+software or the project itself; they
+are great but the some of the
+people, not so much, sorry.
+
+I'm sorry, the first two of these microposts were me venting. I'll try
+to post something fun later on...
+
 #### 2026-05-26T13:18:21+05:30
 
 Apparently, only _I_ am not
@@ -64,53 +118,3 @@ stream of "AI slop" leads me
 to use the ban hammer way more
 often than before anyways, so
 it's not a problem.
-
-#### 2026-05-26T15:08:00+05:30
-
-After thinking for a while, I
-just decided to leave formally by
-removing myself from Gitlab. I
-think it's best for me and everyone
-else. I don't have any willingness
-left to collaborate where I don't
-receive the respect, gratitude and
-trust I think I deserve. 
-
-I wanted to archive some of my own projects I created in the namespace
-but Gitlab in their infinite wisdom
-has restricted that to the 'owner'
-role which I didn't have. So none of
-those repositories will be maintained
-by me anymore. I may mirror/move and/or fork some of them which I perssonally
-need, elsewhere. 
-
-I don't have anything against the
-software or the project itself; they
-are great but the some of the
-people, not so much, sorry.
-
-I'm sorry, the first two of these microposts were me venting. I'll try
-to post something fun later on...
-
-#### 2026-05-26T18:49:00+05:30
-
-Finished watching all four seasons of Invincible last week. I really
-liked how different it is from most superhero shows. 
-
-I also loved the underlying idea
-that, despite being named “Invincible”,
-Mark is anything but invincible in
-his own universe. 
-
-He’s constantly overshadowed by beings
-far stronger than him and he is
-constantly trying to live a normal
-human life filled with mistakes, compromises, and struggles, which is
-so far from a what a "superhero" would
-be doing.
-
-I was thinking about writing a whole
-review posts but I don't think I have
-gathered enough thoughts for that.
-
-
