@@ -5,7 +5,18 @@ showDate: false
 showLastmod: false
 ---
 
-Tweet-sized thoughts, published by accident
+Small thoughts, rants and vents
+
+#### 2026-06-03T10:46:00+05:30
+
+The fdsdk incident has been very depressing for me. I am trying hard not to dwell on it, but it keeps coming back and I get angry and depressed every time it comes to
+mind.
+
+This morning I am thinking what's 
+the entire point of everything in
+if the person spending the most time has no say and their words carry no weight. Why did I even bother to
+burn years of life for this...
+_Sigh_.
 
 #### 2026-05-27T13:32:00+05:30
 
