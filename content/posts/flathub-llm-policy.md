@@ -65,7 +65,7 @@ of Flathub's LLM policy:
 
 It wasn't entirely clear whether this covered the submission itself, the
 application being submitted, or both. My reading was that Hub wanted to
-ban both but having never used these myself, I had no strong opinion 
+ban both but having never used these myself, I had no strong opinion
 either way, at that time and I merged it so we'd have some grounds to close the "slop" PRs.
 
 Shortly after, LLM usage spread enough that some core ecosystem projects
@@ -208,7 +208,7 @@ that "necessary vagueness".
 We are also not giving any free passes to proprietary apps, nor to our
 "friends", nor to corporate apps, I don't think we never have and at
 least, I don't have any "friends" in this space. Also after working
-together for more than four years, even if it's online and I never saw any others' faces, I believe none of us are corporate shills. I'm certainly not, while on the contrary, I have the feeling that some of us are quite anti-corporate. I am as well, to some extent. 
+together for more than four years, even if it's online and I never saw any others' faces, I believe none of us are corporate shills. I'm certainly not, while on the contrary, I have the feeling that some of us are quite anti-corporate. I am as well, to some extent.
 
 Given recent events, I think we will only need to tighten the rules for proprietary apps even further. The exception clause exists purely to give us case-by-case leeway.
 

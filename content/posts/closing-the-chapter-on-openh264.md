@@ -316,4 +316,4 @@ also extra-data support in Flatpak that made all this possible;
 [Michael Catanzaro](https://gitlab.com/TheRealMichaelCatanzaro) and [Seppo Yli-Olli](https://gitlab.com/nanonyme)
 for maintaining this setup for a long time; [Valentin David](https://gitlab.com/valentindavid)
 for helping me in the last few days and everyone else who worked on
-this ❤️ 
+this ❤️

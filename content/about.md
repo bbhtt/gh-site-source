@@ -11,10 +11,11 @@ Hello!
 
 You might know me by my online alias, _bbhtt_, which is somewhat of a
 clumsy attempt to derive a nickname from my real name, Boudhayan
-Bhattacharya. I live in India and I have completed my B.Sc. (Honours) in
-2021 and M.Sc. in Mathematics in 2023. Currently, I'm pursuing a Ph.D.
-in Mathematics. I teach Mathematics for work and contribute to [FOSS projects](https://en.wikipedia.org/wiki/Free_and_open-source_software)
-during my free time. 
+Bhattacharya. I live in India and I have completed my
+[B.Sc.](/bsc_cert.png) (Honours) in 2021 and [M.Sc.](/msc_cert.png) in
+Mathematics in 2023. Currently, I'm pursuing a Ph.D. in Mathematics. I
+teach Mathematics for work and contribute to [FOSS projects](https://en.wikipedia.org/wiki/Free_and_open-source_software)
+during my free time.
 
 I have (co)maintained, either currently or at various points in time, the following projects:
 
