@@ -7,6 +7,11 @@ showLastmod: false
 
 Small thoughts, rants and vents
 
+#### 2026-06-07T08:38:00+05:30
+
+I finished watching [Absolute Value of Romance](https://mydramalist.com/801546-absolute-value-of-romance)
+yesterday. I liked it mostly.
+
 #### 2026-06-03T10:46:00+05:30
 
 The fdsdk incident has been very depressing for me. I am trying hard
