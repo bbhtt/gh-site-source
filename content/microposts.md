@@ -36,8 +36,9 @@ _Sigh_.
 
 #### 2026-05-27T13:32:00+05:30
 
-Loved The Cure by Olivia Rodrigo. The music video was so retro and
-comic-y. So excited for the album!
+Loved [The Cure](https://www.youtube.com/watch?v=B402rKl4bUg) by
+Olivia Rodrigo. The music video was so retro and comic-y. So excited
+for the album!
 
 #### 2026-05-26T18:49:00+05:30
 
