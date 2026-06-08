@@ -9,15 +9,18 @@ Small thoughts, rants and vents
 
 #### 2026-06-08T09:35:00+05:30
 
-I started watching [A Good Girl's Guide to Murder](https://www.netflix.com/title/81759464) after I saw a bunch of ads for S2 on Instagram. I love this teenage dark mystery crime solving genre so I instantly fell in love with the show. Not sure why I
-hadn't heard about it earlier. Emma Myers is too cute!
+I started watching [A Good Girl's Guide to Murder](https://www.netflix.com/title/81759464)
+after I saw a bunch of ads for S2 on Instagram. I love this teenage
+dark mystery crime solving genre so I instantly fell in love with the
+show. Not sure why I hadn't heard about it earlier. Emma Myers is too
+cute!
 
 #### 2026-06-07T08:38:00+05:30
 
 I finished watching [Absolute Value of Romance](https://mydramalist.com/801546-absolute-value-of-romance)
-yesterday. I liked it mostly. I think it's 
-a reasonable take on the teacher-student
-relationship genre. They didn't make it weird or did too much tropes.
+yesterday. I liked it mostly. I think it's a reasonable take on the
+teacher-student relationship genre. They didn't make it weird or did
+too much tropes.
 
 #### 2026-06-03T10:46:00+05:30
 
