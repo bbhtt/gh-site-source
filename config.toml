@@ -14,7 +14,8 @@ theme = "hugo-notepadium"
 copyright = "CC BY-NC-SA 4.0"
 
 [frontmatter]
-lastmod = ["lastmod", ":git", "date"]
+#lastmod = ["lastmod", ":git", "date"]
+lastmod = ["lastmod"]
 
 [author]
 name = "bbhtt"
