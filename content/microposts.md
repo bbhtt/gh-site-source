@@ -7,6 +7,16 @@ showLastmod: false
 
 Small thoughts, rants and vents
 
+#### 2026-06-09T08:11:00+05:30
+
+> I have never done anything 'useful'. No discovery of mine has made or is likely to make, directly or indirectly, for good or ill, the least difference to the amenity of the world. ~ GH Hardy
+
+I learnt about this quotation from
+GH Hardy today and if I cherry-pick
+the first two lines and post it out
+of context, I can pretend that it
+is almost applicable to me.
+
 #### 2026-06-08T09:35:00+05:30
 
 I started watching [A Good Girl's Guide to Murder](https://www.netflix.com/title/81759464)
