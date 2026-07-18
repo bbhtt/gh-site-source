@@ -7,6 +7,19 @@ showLastmod: false
 
 Small thoughts, rants and vents
 
+#### 2026-07-18T17:07:00+05:30
+
+Discourse must have the most hideous authentication and account
+deletion system I had to interact with.
+
+Apparently if you are a site admin, you cannot downgrade your own
+admin status without asking another admin to do that for you. Also
+while you are a site admin you cannot even delete your own account
+without, well, downgrading yourself. What a chicken and egg, wow!
+
+Anyway I /dev/null-ed the email and password to solve the problem.
+Peace!
+
 #### 2026-06-09T22:56:00+05:30
 
 https://www.youtube.com/watch?v=715h-XJ9Wzg 🥹
