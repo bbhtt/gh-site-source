@@ -7,6 +7,14 @@ showLastmod: false
 
 Small thoughts, rants and vents
 
+#### 2026-07-19T11:04:00+05:30
+
+I think my biggest mistake was choosing to contribute to projects started by other people. In the end, it's always _their_ show, and somehow people come to think you're beholden to them simply because you joined, were invited, or were brought on board etc.
+
+I hate to say it, but people come and go on their own individual merit. Beyond the initial gratitude for the opportunity and mutual respect, contributors should be treated as independent and equal collaborators.
+
+That kind of non-democratic power dynamic simply doesn't work for me in the long run. I've come to realise that I probably should never have put myself in those situations in the first place. I'll be correcting those mistakes over time now.
+
 #### 2026-07-18T17:07:00+05:30
 
 Discourse must have the most hideous authentication and account
