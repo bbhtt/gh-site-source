@@ -11,7 +11,9 @@ Small thoughts, rants and vents
 
 I think my biggest mistake was choosing to contribute to projects started by other people. In the end, it's always _their_ show, and somehow people come to think you're beholden to them simply because you joined, were invited, or were brought on board etc.
 
-I hate to say it, but people come and go on their own individual merit. Beyond the initial gratitude for the opportunity and mutual respect, contributors should be treated as independent and equal collaborators.
+I believe that people come and go on their own individual merits. Beyond the initial gratitude for the opportunity and mutual respect, contributors should be treated as independent and equal collaborators.
+
+The role of the person starting or running "the show" should be primarily to bootstrap the process and ensure continuity, rather than exercising their authority left and right. Remaining in that role for too long or too frequently exercising such powers will create contention eventually.
 
 That kind of non-democratic power dynamic simply doesn't work for me in the long run. I've come to realise that I probably should never have put myself in those situations in the first place. I'll be correcting those mistakes over time now.
 
