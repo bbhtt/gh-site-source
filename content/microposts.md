@@ -7,6 +7,16 @@ showLastmod: false
 
 Small thoughts, rants and vents
 
+#### 2026-07-24T05:40:00+05:30
+
+I keep saying this in class, people agree, and then somehow forget it.
+
+Unless a math question explicitly asks for the answer in a particular form, you are under no obligation to simplify it.
+
+5C2 is just as valid an answer as 10. 27!/26! is just as valid as 27. If an exact answer contains irrationals or rational fractions etc., keeping it in exact form is mathematically correct and preferable to using an approximation. I might go ahead and say that in the last case questions shouldn't even try to ask for an approximate solution.
+
+I have always awarded full marks for these. After a stage, exams are not meant to test routine algebra or arithmetic. For the same reason, I don't require a scientific calculator, and I try to write exams that don't require one.
+
 #### 2026-07-19T11:04:00+05:30
 
 I think my biggest mistake was choosing to contribute to projects started by other people. In the end, it's always _their_ show, and somehow people come to think you're beholden to them simply because you joined, were invited, or were brought on board etc.
