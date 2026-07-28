@@ -23,6 +23,21 @@ Unsorted:
   support flit v4. [Link](https://github.com/pypa/wheel/issues/687)
 - Fixed two leaks in AppStream found by ASAN while working on
   flatpak-builder. [Link](https://github.com/ximion/appstream/pull/752)
+- Made GitHub workflows in every repo I had access to, zizmor-approved.
+  zizmor is a static analysis tool for GitHub worklow YAML files that
+  ensures various best practices. It came into my radar some time in
+  late 2024 or early 2025. Some of its detections are pedantic,
+  missing context and unsolvable but most if it is great. I felt that
+  following its detection would make the workflows more secure
+  and safe from random attacks that were becoming very common. The
+  changes spanned almost every repository in flathub-infra GitHub org,
+  4-5 repositories in flathub and flatpak GitHub org and a couple of my
+  own personal repositories. I turned on the new GitHub toggle
+  that enforces actions be pinned to full length SHA as well during
+  this exercise. One thing I noticed was that GitHub toggle didn't
+  work when pinning a docker image used in the action YAML. It
+  was incorrectly detecting them as not pinned even when `@sha256:` was
+  being used.
 
 Flathub documentation / policy:
 
@@ -55,19 +70,19 @@ Flathub documentation / policy:
 - Created an issue as a reminder for myself and a way for the team
   to discuss the AI policy and enforce only the reasonable parts. The
   slop fest was still at full force, so my wish was to do this exercise
-  at a later point in time when things were calmer and the team had collected
-  its thoughts about the effects of the current policy. My plan was also
-  to ask the community; that was the reason I unlocked the issue
-  (someone had posted a comment mentioning a prominent project was not
-  able to submit due to the policy and later deleted it).
-  Unfortunately, some people wanted a quicker result in the middle
+  at a later point in time when things were calmer and the team had
+  collected its thoughts about the effects of the current policy. My
+  plan was also to ask the community; that was the reason I unlocked
+  the issue (someone had posted a comment mentioning a prominent
+  project was not able to submit due to the policy and later deleted
+  it). Unfortunately, some people wanted a quicker result in the middle
   of the slop fest... [Link](https://github.com/flathub-infra/documentation/issues/620)
 - Created a formal EOL policy. This came up during the Fedora-OBS Flatpak
   situation, and various people from the community wanted one too,
-  especially after the licence debacle, as the project was growing a graveyard
-  of unmaintained apps. My intention was to slowly nudge and make
-  the app maintainers aware, and if they didn't have time, etc., the
-  plan was to ask the community for help, arrange QAs, etc.
+  especially after the licence debacle, as the project was growing a
+  graveyard of unmaintained apps. My intention was to slowly nudge and
+  make the app maintainers aware, and if they didn't have time, etc.,
+  the plan was to ask the community for help, arrange QAs, etc.
   [Link](https://github.com/flathub-infra/documentation/issues/621)
 
 Flathub website (backend / frontend):
@@ -166,23 +181,33 @@ PRs per day manually; it was making the experience sour for me, and I
 saw (or felt) that others weren't liking it either. A neutral automated
 response felt like a solution to both.
 
-I thought the detection rate of it was pretty good. There were
+I thought the detection rate of it was pretty good. I was aware it
+can be never 100% as the GitHub PR template is an arbitrary text
+field and I am trying to essentially model human and AI behaviour
+both of which are unpredictable to say the least. So there were
 a couple of false positives where it would close the PR, and I was
 fixing them one by one.
 
-Anyway, I later learnt that this was an unwelcome change, but nobody
-contacted me with the feedback beforehand. I also failed to properly
-communicate the changes, but if I had received feedback I would have
-tried to fix them.
+Anyway, I later learnt that this was an unwelcome change, but it was
+too late for that. Nobody had contacted me with that feedback
+beforehand too and I also failed to properly communicate the
+changes. If I had received feedback I would have tried to fix them.
 
 [Link](https://github.com/flathub-infra/flathub-submission-checker)
 
 Flatpak External Data Checker:
 
 - Added a feature to try harder to preserve JSON formatting in
-  manifests. Turns out it's hard. [Link](https://github.com/flathub-infra/flatpak-external-data-checker/pull/517)
+  manifests. Turns out it's hard. This was prompted by old complaints
+  I saw here and there that x-checker messes up manifest formatting
+  producing a verbose JSON diff in PRs.
+  [Link](https://github.com/flathub-infra/flatpak-external-data-checker/pull/517)
 - Added a fallback for chromiumchecker. [Link](https://github.com/flathub-infra/flatpak-external-data-checker/pull/522/changes/b2283eff0b57d12a779fe70801b053bc6e515db5)
-- Added timestamp support to anityachecker. [Link](https://github.com/flathub-infra/flatpak-external-data-checker/pull/528)
+- Added timestamp support to anityachecker. Adding timestamp support
+  to more checkers is one of the way I could reduce the spam of
+  duplicate PRs. The Anitya API didn't have support for timestamp
+  for the longest time. It was just added a couple of months back.
+  [Link](https://github.com/flathub-infra/flatpak-external-data-checker/pull/528)
 - Added support for respecting robots.txt. This was done in response
   to a feature request made by Will, and I thought it would be a nice
   addition. It later became clear that this could never be turned on by
@@ -211,8 +236,8 @@ Flatpak External Data Checker:
   were slow, hard to write or test, and had a lot of other problems.
   There was an [old issue](https://github.com/flathub-infra/flatpak-external-data-checker/issues/325)
   suggesting improvements. The signs were clear that the project needed
-  to mock things and write unit tests (which I was already doing). So all
-  the tests written to bump the coverage were unit tests and worked
+  to mock things and write unit tests (which I was already doing). So
+  all the tests written to bump the coverage were unit tests and worked
   without network. Some of them were extremely tedious to write
   to get 0.01% coverage up, and I took some [shortcuts](https://github.com/flathub-infra/flatpak-external-data-checker/issues/532)
   along the way. That should be fixed by someone.
@@ -224,10 +249,12 @@ Flatpak External Data Checker:
 Flatpak:
 
 - Fixed a build warning in a test. [Link](https://github.com/flatpak/flatpak/pull/6655)
-- Made assorted fixes while trying to prepare to migrate to Flatpak 1.18.0
-  in Flathub infra. The project was using a fork with some patches, and I had
-  tests disabled. I turned them on and used the exact same build args
-  the project used, and found some random test bugs.
+- Made assorted fixes while trying to prepare to migrate to Flatpak
+  1.18.0 in Flathub infra. `org.flatpak.Builder` was using a fork with
+  some patches, and I had tests / CI disabled. I turned them on and
+  used the exact same build args and found some random test bugs.
+  I also added a full E2EE test in the fork to test the unpriviledged
+  docker image patch.
   [1](https://github.com/flatpak/flatpak/pull/6713) and [2](https://github.com/flatpak/flatpak/pull/6681)
 - Fixed various bugs found from issue reports. [1](https://github.com/flatpak/flatpak/pull/6696), [2](https://github.com/flatpak/flatpak/pull/6687)
 - Reviewed ~16 PRs.
@@ -268,14 +295,16 @@ Flatpak builder tools:
 - Reviewed and merged a rather large PR adding PNPM v11 store support
   to Flatpak Node Generator. PNPM made it especially annoying,
   since the store needed to be an SQLite database in this version, and
-  a whole custom msgpack packer had to be used due to various fixed
-  caps. Thereafter, merged several follow-up fixes to that. [Link](https://github.com/flatpak/flatpak-builder-tools/pull/537)
-  This was a great and very desired contribution.
+  a whole custom msgpack packer had to be used due to various fixint
+  caps. Thereafter, merged several follow-up fixes to that. This was a
+  great and very desired contribution.
+  [Link](https://github.com/flatpak/flatpak-builder-tools/pull/537)
 - Fixed a very old bug reported in the Flatpak CPAN generator.
   [Link](https://github.com/flatpak/flatpak-builder-tools/pull/533)
-- Made various test suite fixes to Flatpak Node Generator. This was due
-  to a regression in newer Electron, but I snuck in some more
-  fixes that made the integration tests easier to run locally.
+- Made various test suite fixes to Flatpak Node Generator. The tests
+  were failing due to a regression in newer Electron from one of its
+  dependencies used to unpack zips. I used the chance to sneak in some
+  random fixes that made the integration tests easier to run locally.
   [Link](https://github.com/flatpak/flatpak-builder-tools/pull/541)
 - Replaced the old README with more information and documented
   de facto contribution guidelines and process. [Link](https://github.com/flatpak/flatpak-builder-tools/commit/d9a48e3fc08576962307688de9aa64bd5572705a)
