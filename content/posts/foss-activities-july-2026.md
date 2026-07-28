@@ -17,6 +17,7 @@ Unsorted:
   annoying. [Link](https://github.com/cstate/cstate/issues/353)
 - Made a PR to OSTree with two trivial fixes I found while I was
   working on Flatpak builder. [Link](https://github.com/ostreedev/ostree/pull/3592)
+- Fixed a leak in bubblewrap found while running tests on Flatpak with LASAN. [Link](https://github.com/containers/bubblewrap/pull/762)
 - Fixed a bug in propcache that caused it to unintentionally bump
   the setuptools constraint through rogue automation. [Link](https://github.com/aio-libs/propcache/pull/225)
 - Convinced the pypa/wheel maintainer to update the flit constraint and
