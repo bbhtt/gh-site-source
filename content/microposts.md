@@ -9,7 +9,9 @@ Small thoughts, rants and vents
 
 #### 2026-08-05T06:13:00+05:30
 
-Always nice to see formal agreed-upon policies and procedures not being maintained! I ask myself why did I even bother spending time to write them!
+I recently watched Happiness. It was so good. The ML and FL looks very cute and the chemistry between them is awesome.
+
+It's a better zombie series than All of us are dead. I am not sure why that show gets hyped so much.
 
 #### 2026-07-24T05:40:00+05:30
 
