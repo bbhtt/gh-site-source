@@ -7,6 +7,10 @@ showLastmod: false
 
 Small thoughts, rants and vents
 
+#### 2026-08-05T06:13:00+05:30
+
+Always nice to see formal agreed-upon policies and procedures not being maintained! I ask myself why did I even bother spending time to write them!
+
 #### 2026-07-24T05:40:00+05:30
 
 I keep saying this in class, people agree, and then somehow forget it.
