@@ -7,6 +7,16 @@ showLastmod: false
 
 Small thoughts, rants and vents
 
+#### 2026-08-05T06:26:00+05:30
+
+I am watching House of the dragon S3 and it's a bit frustrating how they are dragging things out. Really the only interesting thing in the show is the dragons. The rest is just a worse GoT.
+
+The last episode of S3 is next week and I have to wait till 2028 for the final season. It's trying hard to get us to care about the characters and plots but it is not working.
+
+At this point I am watching just to get my epic fantasy fix.
+
+The rings of power has the exact same issue. I have 4 episodes left of S2.
+
 #### 2026-08-05T06:13:00+05:30
 
 I recently watched Happiness. It was so good. The ML and FL looks very cute and the chemistry between them is awesome.
