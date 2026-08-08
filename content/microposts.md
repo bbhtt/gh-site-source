@@ -7,6 +7,14 @@ showLastmod: false
 
 Small thoughts, rants and vents
 
+#### 2026-08-08T18:24:00+05:30
+
+I am really disheartened to see Blackpink's 10th anniversary drama. While I agree that it was lackluster and communication fell apart somewhere, I absolutely hate the attacks being thrown at the pinks. I think it's ok to express disagreement or make memes/fun of the situation but not that please.
+
+The other thing is today's live was very sad to see. They were clearly disturbed about something but they tried to put on a happy face for the fans and I love them for that.
+
+I really really hope they continue Blackpink and if not under YGE then they should try to buy the brand back together. I'm going to miss seeing them together in concerts and lives otherwise.
+
 #### 2026-08-05T06:26:00+05:30
 
 I am watching House of the dragon S3 and it's a bit frustrating how they are dragging things out. Really the only interesting thing in the show is the dragons. The rest is just a worse GoT.
