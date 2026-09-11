@@ -69,10 +69,6 @@ title = "Notes"
 url = "/notes"
 
 [[params.nav.custom]]
-title = "Microposts"
-url = "/microposts"
-
-[[params.nav.custom]]
 title = "About"
 url = "/about"
 
