@@ -24,7 +24,7 @@ in [movies and TV shows](https://www.imdb.com/user/ur212871697/ratings/),
 I'm a big fan of pop, K-pop, J-pop, and rock [music](https://music.youtube.com/@bbhtt3305).
 Occasionally I play online chess or something on [Steam](https://steamcommunity.com/id/bbhtt/).
 Maths eats up most of my time, but I've always loved literature,
-poetry, and philosophy. So I still try to make room for [books](https://www.goodreads.com/user/show/203918390-bbhtt).
+poetry, and philosophy. So I still try to make room for [books](https://www.goodreads.com/bbhtt).
 
 All of my free software work is done in my free time. I never accepted
 any payments or donations for it and I don't have any plans to do so. I
