@@ -13,7 +13,7 @@ zillennial guy from India. I'm known as Boudhayan in real life, which
 means "wise" or "knowledgeable" in Sanskrit, but can also refer to the
 son of the planet Mercury, or of an ancient sage. I'm a deeply
 introverted heteroromantic ace, still trying to figure out life.
-Politically, I'm a socialist and I consider myself progressive.
+Politically, I'm a democratic socialist but I also do appreciate some of the orthodox socialism beliefs. I consider myself to be progressive, pro women's rights, pro-lgbtqia+ rights and anti-fascist. If you are against any of these, I kindly suggest to leave me alone.
 
 I completed my B.Sc. (Honours) in 2021 and my M.Sc. in Mathematics in
 2023, and I'm currently doing a Ph.D. in Mathematics. I teach Maths for
