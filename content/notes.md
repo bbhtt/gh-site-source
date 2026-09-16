@@ -16,3 +16,4 @@ This is a place to share various teaching and study notes I often make.
 - [Class test on ODE and PDE - I](/ode-pde-class-test-1.pdf)
 - [Class test on ODE and PDE - II](/ode-pde-class-test-2.pdf)
 - [MIC2 end semester questions 2026](/ode-pde-end-sem-2026.pdf)
+- [MIC3 mid semester questions 2026](/MIC03_midsem_2026.pdf)
