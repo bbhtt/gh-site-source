@@ -169,6 +169,48 @@ while still recognising that this does not make his experience
 meaningless. The important thing is what he chooses to do with all
 this experience and how he responds.
 
+The conflict becomes much more concrete after the narrator is severely
+beaten by the bullies, to the point that he has to go to the hospital
+for treatment and begins suffering from insomnia. When he visits the
+doctor, he learns that his “unnatural eye”, which until then has been
+the defining feature of his identity, can actually be “treated” very
+easily. This should have been an uncomplicated piece of good news. Yet
+when he tells Kojima that his eye can be “fixed”, she strongly objects.
+She cannot accept the idea of him removing something that has come to
+represent the beginning of their relationship and the meaning they have
+attached to their shared suffering. The narrator’s decision to have it
+“fixed” therefore feels to her almost like a rejection of the meaning
+she has constructed around their suffering, and ultimately contributes
+to the breakdown of their now romantic relationship. The tragedy is that
+the narrator is finally presented with a genuine opportunity to change
+his circumstance, but doing so comes at the cost of losing the one
+person who had treated him as a complete and equal human being.
+
+Shortly after this, the bullies force Kojima to contact the narrator and
+arrange a meeting under the pretence of reconciling their differences.
+Starved of connection, the narrator agrees, only for the meeting to
+become the final escalation of their dehumanisation. The bullies,
+led by Ninomiya, force Kojima and the narrator to undress, stand
+completely naked, and perform sexual acts as a spectacle for their
+mindless amusement. The scene is extremely difficult to read because it
+strips away the last remnants of the philosophical meaning they had
+attached to their suffering, the private "heaven" they had created
+together, and ultimately even their humanity.
+
+The scene ultimately culminates in the adults discovering the narrator
+and Kojima naked and intervening, with Kojima being taken away from
+him. The narrator then returns home to his mother, who does not
+question him about what happened or demand an explanation, despite the
+obvious social implications of a boy and a girl standing naked. Instead,
+she simply takes care of him and helps him finally have his eye
+“fixed”. Her response is strikingly ordinary. Like Momose, she does not
+attempt to attach any deeper meaning to his “condition”; as to her, it is
+simply something that can be medically treated. This practical response
+inadvertently cuts through the philosophical significance the narrator
+and Kojima had attached to it. The procedure therefore marks the end of
+their relationship, their shared world, and the narrator’s attempts
+to identify with his suffering itself.
+
 The ending of Heaven is left deliberately unresolved. It does not offer
 suffering as a lesson or meaninglessness as an answer. It leaves the
 narrator, and the reader, with the harder possibility that suffering may
@@ -195,6 +237,24 @@ less like a conventional coming-of-age story and more like an
 examination of what it means to live within a world that does not
 guarantee resolution. By refusing the familiar young-adult promise,
 Kawakami leaves the narrator with something much harder and deeper.
+
+Another aspect of the novel that stood out to me is how young all of
+its characters actually are. The narrator, Kojima, Ninomiya, and Momose
+are only middle schoolers, yet they frequently speak, reason, and
+philosophise with a degree of self-awareness that feels extremely adult.
+This is something I have noticed in Japanese media more broadly, where
+children and adolescents are often given an unusually sophisticated
+interiority and made to confront questions that would ordinarily be
+associated with adulthood. Hōrō Musuko, for example, similarly treats
+its young characters not simply as children passing through adolescence,
+but as people capable of grappling seriously with self-identity, gender
+identity, gender dysphoria and alienation. This makes the characters
+feel strangely caught in a world between childhood and adulthood where
+they remain subject to the powerlessness and cruelty of childhood, while
+being forced to develop a philosophical sense suited for adults. This
+tension makes their suffering even more unsettling, as they are expected
+to understand a world they are still too young to have any real power
+within.
 
 I have not experienced bullying on anything like the scale the
 narrator does, but I recognised the attempt to attach meaning to
